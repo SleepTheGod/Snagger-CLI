@@ -20,16 +20,16 @@ Before you begin using Snagger, ensure you have the following:
 - Python 3.6+
 - `requests` library installed
 
-```bash
+bash
 pip install requests
 
-```Installation
+Installation
 Clone the repository to your local machine
 
-```git clone https://github.com/SleepTheGod/Snagger-CLI/
+git clone https://github.com/SleepTheGod/Snagger-CLI/
 cd snagger
 
-```Usage
+Usage
 Configuration: Adjust snagger_config.ini to set your preferences (e.g., targeted sites, proxies, and thread count).
 Prepare Word List: Place your word list in the word_lists directory. This should contain one username per line.
 Now we run the tool python Snagger.py
